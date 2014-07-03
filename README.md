@@ -1,8 +1,8 @@
 Web service extramethods
 ------------------------------------------
-Develop by Jose Manuel Guerrero (jmanuelguerrero@gmail.com / http://www.jmanuelguerrero.com) and Jose Reyero (jose@reyero.net http://www.reyero.net)
+Develop by Jose Manuel Guerrero (jmanuelguerrero@gmail.com / http://www.jmanuelguerrero.com) and Jose Reyero (http://www.reyero.net)
 
-List courses completed by username and userid. Have two methods at this moment.
+Its a Moodle plugin. List courses completed by username and userid. Have two methods at this moment.
 
 local_extramethods_get_user_finised_by_uid
 
